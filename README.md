@@ -62,5 +62,7 @@
 <h3 align="center">📫 Teach Stack 📫</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuhoBam&show_icons=true&theme=tru">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr010206@naver.com&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
   [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chr010206@naver.com&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chr010206@naver.com)
 </div>
