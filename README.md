@@ -61,6 +61,6 @@
 
 <h3 align="center">📫 Teach Stack 📫</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhoBam&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhoBam&show_icons=true&theme=tru">
   
 </div>
