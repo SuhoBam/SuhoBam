@@ -1,14 +1,10 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=9d74d6&height=300&section=header&text=Hasegos%20Github&fontSize=90&fontColor=000000">
-</div>
-<!--방문자 수-->
-<div align="center">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSuhoBam&label=&icon=github&color=%238540f5">
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=9d74d6&height=270&section=header&text=Hasegos%20Github&fontSize=80&fontColor=000000">
 </div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
-<br>
+
 <div align="center"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -42,15 +38,14 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp  
 </div>
 <br>
-<a href="#">fsfs</a>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">  
-    <a href="https://velog.io/@csw020106" style="text-decoration: none;">
+    <a href="https://velog.io/@csw020106">
         <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white">
-    </a> &nbsp
+    </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=csw020106@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">        
-    </a>&nbsp
+    </a>
     <a href="https://mail.naver.com/v2/new?recipient_input_element=csw020106@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
     </a>    
