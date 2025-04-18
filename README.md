@@ -58,8 +58,7 @@
         <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white">&nbsp
     </a> 
     <a href="mailto:choisw3361@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
-        &nbsp
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">        
     </a> 
     <a href="mailto:csw020106@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
