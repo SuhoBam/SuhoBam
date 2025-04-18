@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhoBam&show_icons=true&theme=tru">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhoBam&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
+</div>
 
 <br>
 
@@ -61,8 +65,6 @@
 
 <h3 align="center">📫 Teach Stack 📫</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhoBam&show_icons=true&theme=tru">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhoBam&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
+  
   
 </div>
