@@ -44,7 +44,13 @@
 <br>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">  
-  ![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)
-  [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com)  
-  [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://www.naver.com)
+    <a href="https://velog.io/@csw020106" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white">
+    </a> &nbsp
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=csw020106@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">        
+    </a>&nbsp
+    <a href="https://mail.naver.com/v2/new?recipient_input_element=csw020106@naver.com">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
+    </a>    
 </div>
