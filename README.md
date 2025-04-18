@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=SuhoBam%20Github&fontSize=90" />
 </div>
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSuhoBam&label=&icon=github&color=%23198754">
+<div align="center"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSuhoBam&label=&icon=github&color=%23198754"></div>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
