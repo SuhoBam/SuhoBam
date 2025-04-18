@@ -1,9 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=9d74d6&height=300&section=header&text=Hasegos%20Github&fontSize=90&fontColor=000000
-  ">
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=9d74d6&height=300&section=header&text=Hasegos%20Github&fontSize=90&fontColor=000000">
 </div>
-
 <!--방문자 수-->
 <div align="center">
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSuhoBam&label=&icon=github&color=%238540f5">
@@ -51,7 +49,7 @@
     </a> 
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=csw020106@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">        
-    </a> 
+    </a>&nbsp
     <a href="https://mail.naver.com/v2/new?recipient_input_element=csw020106@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
     </a>    
