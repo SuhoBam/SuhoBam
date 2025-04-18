@@ -44,7 +44,7 @@
 <br>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">  
-  [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@csw020106)  
+  ![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)
   [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com)  
   [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://www.naver.com)
 </div>
