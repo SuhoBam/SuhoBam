@@ -46,8 +46,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp  
-
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp
 </div>
 
 <br>
@@ -55,11 +54,11 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
     <a href="https://velog.io/@csw020106">
-        <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white">&nbsp
-    </a> 
+        <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white">
+    </a> &nbsp
     <a href="mailto:choisw3361@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">        
-    </a> 
+    </a> &nbsp
     <a href="mailto:csw020106@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
     </a>    
